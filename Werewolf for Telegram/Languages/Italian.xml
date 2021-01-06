@@ -698,7 +698,7 @@
   <value>Il vero amore trionfa! Gli innamorati hanno vinto!</value>
   </string>
   <string key="SerialKillerWinsOverpower">
-    <value>Sorge il sole e gli ultimi due sopravvissuti si vedono nella piazza centrale. {0} vede {1}, gli molla un bel pugno nel viso, esce il coltello ed uccide {1}. Il serial killer ha vinto!</value>
+    <value>Sorge il sole e gli ultimi due sopravvissuti si vedono nella piazza centrale. {0} vede {1}, gli molla un bel pugno nel viso, sguaina il coltello ed uccide {1}. Il serial killer ha vinto!</value>
   </string>
   <string key="NoWinner" isgif="true">
     <value>Tutti nel villaggio sono morti....  non c'è niente ad eccezione dei corpi rimasti a terra. Nessuno ha vinto in questa partita.. A parte gli avvoltoi.</value>
